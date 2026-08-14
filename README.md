@@ -98,15 +98,9 @@
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake.svg" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=Ved-Chandrakar&theme=tokyo-night&hide_border=true&area=true&line=00f2fe&point=ffffff'">
-  </picture>
-</div>
-<br/>
-<div align="center">
-  <i>*(Note: The animated snake requires setting up the <a href="https://github.com/Platane/snk">GitHub Action</a>. If not set, it gracefully falls back to an activity graph!)*</i>
+  <a href="https://github.com/Ved-Chandrakar">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved-Chandrakar&theme=tokyo-night&hide_border=true&area=true&line=00f2fe&point=ffffff" alt="Contribution Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
@@ -116,7 +110,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ved-Chandrakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ved-Chandrakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
