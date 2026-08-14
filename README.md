@@ -1,203 +1,152 @@
-# 👋 Hi, I'm Vedansh Chandrakar
-
-### 🚀 Full Stack Developer • Backend Enthusiast • Data & AI Explorer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Vedansh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Ved-Chandrakar">
-    <img src="https://komarev.com/ghpvc/?username=ved-chandrakar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code+%F0%9F%92%BB;%E2%80%A2+Full+Stack+Developer+%E2%80%A2;%E2%80%A2+Backend+Enthusiast+%E2%80%A2;%E2%80%A2+Data+%26+AI+Explorer+%E2%80%A2;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ved-Chandrakar&label=Profile%20Views&color=00f2fe&style=for-the-badge&logo=github" alt="Profile Views" />
   <a href="https://github.com/Ved-Chandrakar?tab=followers">
-    <img src="https://img.shields.io/github/followers/Ved-Chandrakar?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Ved-Chandrakar?label=Followers&style=for-the-badge&color=00f2fe&logo=github" alt="GitHub Followers" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ved-Chandrakar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Backend+%26+Data+Enthusiast+%F0%9F%93%8A;Exploring+AI+%26+Deep+Learning+%F0%9F%A4%96;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me & What I'm Exploring
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 Currently working on <strong><a href="https://skbridge.in">SkillBridge</a></strong></li>
+        <li>🌱 Currently learning <strong>Next.js, TypeScript & Deep Learning</strong></li>
+        <li>💻 Interested in <strong>Backend Development & Data Analysis</strong></li>
+        <li>🤖 Exploring <strong>Machine Learning & AI</strong></li>
+        <li>🎯 Always looking for opportunities to learn and collaborate</li>
+        <li>📫 Reach me at <strong><a href="mailto:vedchandrakar1764@gmail.com">vedchandrakar1764@gmail.com</a></strong></li>
+        <li>📄 <strong><a href="https://drive.google.com/file/d/15BdY9RcGWET5FXzEeDGrWh-akGQujAJi/view?usp=sharing">View My Resume</a></strong></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/M9gbBd9vnBRrjZR1bX/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php,dart&theme=dark&perline=8" />
   </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm **Vedansh Chandrakar**, a developer from India who enjoys turning ideas into practical software.
-
-* 🔭 Currently working on **[SkillBridge](https://skbridge.in)**
-* 🌱 Currently learning **Next.js, TypeScript & Deep Learning**
-* 💻 Interested in **Backend Development, Full Stack Development & Data Analysis**
-* 🤖 Exploring **Machine Learning & AI**
-* 🧩 I enjoy building real-world applications and solving technical problems
-* 🎯 Always looking for opportunities to learn, build and collaborate
-* 📫 Reach me at **[vedchandrakar1764@gmail.com](mailto:vedchandrakar1764@gmail.com)**
-* 📄 **[View My Resume / Experience](https://drive.google.com/file/d/15BdY9RcGWET5FXzEeDGrWh-akGQujAJi/view?usp=sharing)**
-
----
-
-## 🚀 What I'm Currently Exploring
-
-```text
-Full Stack Development   ████████████████████░   90%
-Backend Development      ███████████████████░░   85%
-Data Analysis            ████████████████░░░░░   75%
-Machine Learning         █████████████░░░░░░░░   65%
-Deep Learning            ███████████░░░░░░░░░░   55%
-Cloud & DevOps           ██████████░░░░░░░░░░░   50%
-```
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php,dart" />
-</p>
-
-### 🌐 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative,flutter" />
-</p>
-
-### ⚙️ Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase" />
-</p>
-
-### 🤖 Data, AI & Machine Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### ☁️ Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,nginx,vscode" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ved-chandrakar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Vedansh's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved-chandrakar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📈 GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ved-chandrakar&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ved-chandrakar&theme=tokyonight" alt="GitHub Summary Stats" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ved-chandrakar&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-# 📅 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/Ved-Chandrakar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ved-chandrakar&theme=tokyo-night&hide_border=true&area=true" alt="Vedansh's Contribution Activity Graph" />
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,reactnative,flutter,nodejs,express&theme=dark&perline=8" />
   </a>
-</p>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,pytorch,tensorflow,git,docker,linux&theme=dark&perline=8" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,vscode,github,bash,postman,figma&theme=dark&perline=8" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-# 🏆 GitHub Trophies
+## 📊 Analytics & Performance
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ved-chandrakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ved-Chandrakar&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=1a1b26" height="192" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ved-Chandrakar&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=1a1b26" height="192" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-# 📌 Featured Projects
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ved-Chandrakar&theme=tokyonight" alt="GitHub Profile Details" />
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ved-Chandrakar&theme=tokyonight&hide_border=true&stroke=00f2fe&ring=00f2fe&fire=00f2fe" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ved-Chandrakar/Ved-Chandrakar/output/github-contribution-grid-snake.svg" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=Ved-Chandrakar&theme=tokyo-night&hide_border=true&area=true&line=00f2fe&point=ffffff'">
+  </picture>
+</div>
+<br/>
+<div align="center">
+  <i>*(Note: The animated snake requires setting up the <a href="https://github.com/Platane/snk">GitHub Action</a>. If not set, it gracefully falls back to an activity graph!)*</i>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ved-Chandrakar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
   <a href="https://github.com/Ved-Chandrakar/Dhadkan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ved-chandrakar&repo=Dhadkan&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Chandrakar&repo=Dhadkan&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe" />
   </a>
   <a href="https://github.com/Ved-Chandrakar/SkillBridge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ved-chandrakar&repo=SkillBridge&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ved-Chandrakar&repo=SkillBridge&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=00f2fe" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/Ved-Chandrakar?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-00f2fe?style=for-the-badge&logo=github&logoColor=black&color=000000" />
   </a>
 </p>
 
-> **Note:** If your actual repository names are different from `Dhadkan` or `SkillBridge`, replace those two repository names in the URLs above. This is the only section that depends on your exact repository names.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+## 🤝 Let's Connect!
 
-# 💡 What I Like Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full Stack Applications
-
-Building complete applications with modern frontend and backend technologies.
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend Systems
-
-Designing APIs, database systems and server-side applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data & Analytics
-
-Working with Python, Pandas and data-driven solutions.
-
-</td>
-<td width="50%">
-
-### 🤖 AI & Machine Learning
-
-Exploring ML, deep learning and intelligent applications.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/vedansh-chandrakar-17o6o4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -207,26 +156,13 @@ Exploring ML, deep learning and intelligent applications.
   <a href="mailto:vedchandrakar1764@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ved-Chandrakar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://skbridge.in">
+    <img src="https://img.shields.io/badge/Website-00f2fe?style=for-the-badge&logo=globe&logoColor=black&color=000000" />
   </a>
-</p>
+</div>
 
----
+<br/>
 
-# 📊 Quick GitHub Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/Ved-Chandrakar/Ved-Chandrakar?style=for-the-badge&logo=github&label=Last%20Profile%20Update" />
-  <img src="https://img.shields.io/github/repo-size/Ved-Chandrakar/Ved-Chandrakar?style=for-the-badge&logo=github&label=Profile%20Repo%20Size" />
-</p>
-
----
-
-<p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:6C63FF&height=120&section=footer" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
