@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedansh Chandrakar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ved-chandrakar" alt="ved-chandrakar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ved-Chandrakar" alt="Ved-Chandrakar" /></a> </p>
 
 - 🔭 I’m currently working on [SkillBridge](skbridge.in)
 
